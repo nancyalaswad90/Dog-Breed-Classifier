@@ -58,7 +58,7 @@ Along with exploring state-of-the-art CNN models for classification and localiza
 5. Open a terminal window and navigate to the project folder. Open the notebook and follow the instructions.
 
 
-> 	jupyter notebook dog_app.ipynb
+	    > jupyter notebook dog_app.ipynb
 
 
 
