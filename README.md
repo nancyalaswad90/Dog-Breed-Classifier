@@ -1,7 +1,7 @@
 
 
 
-# Predicting-Bike-Sharing-Data
+# Dog Breed Classifier
 
 
 ## Project Overview
