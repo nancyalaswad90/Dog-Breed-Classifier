@@ -31,7 +31,7 @@
  
  
  
-### This project is part of Two Nanodegree program (( Machine Learning, [Deep Learning](https://github.com/nancyalaswad90/Deep-Learning-Nanodegree-) ))
+### This project is part of Two Nanodegree programs (( Machine Learning, [Deep Learning](https://github.com/nancyalaswad90/Deep-Learning-Nanodegree-) ))
 
 
 
