@@ -30,13 +30,10 @@
 
 
 
-- **For Machine Learning** : 
+- **For Machine Learning** :  We should have it with previous project called 
 
 
-We should have it with previous project called 
-
-
- - **Capstone-Proposal** [Here is its link ](https://github.com/nancyalaswad90/Capstone-Proposal)
+   - **Capstone-Proposal** [Here is its link ](https://github.com/nancyalaswad90/Capstone-Proposal)
 	
 
 
